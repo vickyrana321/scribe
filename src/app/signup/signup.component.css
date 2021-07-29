@@ -1,0 +1,30 @@
+.background-left {
+
+  background-image: url('/assets/office3.jpg');
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: cover;
+
+}
+
+h1 {
+  color: white;
+}
+
+.background-right {
+  background-color: black;
+
+}
+
+.card {
+  background-color: transparent;
+  color: white;
+}
+
+.text-muted {
+  color: white !important;
+}
+
+.btn1 {
+  border-radius: 100px;
+}
